@@ -5,6 +5,7 @@ public class SlytherinStudent extends HogwartsStudent {
     private final int resourcefulness;
     private final int powerLust;
 
+
     public SlytherinStudent(String name, int magicPower, int transgressionDistance, int cunning, int determination, int ambition, int resourcefulness, int powerLust) {
         super(name, magicPower, transgressionDistance);
         this.cunning = cunning;

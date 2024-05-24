@@ -5,6 +5,7 @@ public abstract class HogwartsStudent {
     private final int transgressionDistance;
 
 
+
     public HogwartsStudent(String name, int magicPower, int transgressionDistance) {
         this.name = name;
         this.magicPower = magicPower;

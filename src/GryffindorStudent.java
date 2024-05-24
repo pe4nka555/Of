@@ -5,6 +5,7 @@ public class GryffindorStudent extends HogwartsStudent{
     private final int bravery;
 
 
+
     public GryffindorStudent(String name, int magicPower, int transgressionDistance, int nobility, int honor, int bravery) {
         super(name, magicPower, transgressionDistance);
         this.nobility = nobility;
